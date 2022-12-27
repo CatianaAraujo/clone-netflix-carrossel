@@ -1,0 +1,2 @@
+-Projeto desnvolvido no Bootcamp da Digital One Innovation(dio.me) o HTML Web Developer;
+-Neste projeto treinei, dispaly flex, reposinvidade com media query e um carrossel feito com JQuery
